@@ -1,1 +1,1 @@
-hash tables in python
+hash tables
